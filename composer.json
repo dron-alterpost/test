@@ -1,0 +1,12 @@
+{
+    "name": "dron/test",
+    "require": {
+        "symfony/symfony": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "dron",
+            "email": "ot.bondar@gmail.com"
+        }
+    ]
+}
